@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-01 04:50:30 +0000"
@@ -122,6 +134,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-03 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },
@@ -164,6 +182,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },
@@ -484,6 +508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-09 20:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-03 02:44:44 +0000"
@@ -526,6 +556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 01:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-02 21:56:35 +0000"
@@ -544,6 +580,7 @@
       "shulker": "2024-12-09 01:07:33 +0000",
       "wither_skeleton": "2024-12-07 00:57:59 +0000",
       "zombie_villager": "2024-12-02 01:34:30 +0000",
+      "magma_cube": "2024-12-10 00:16:33 +0000",
       "vindicator": "2024-12-07 00:58:03 +0000",
       "skeleton": "2024-12-01 05:01:07 +0000",
       "husk": "2024-12-02 03:00:37 +0000",
@@ -554,6 +591,7 @@
       "witch": "2024-12-03 04:42:11 +0000",
       "guardian": "2024-12-06 23:05:42 +0000",
       "spider": "2024-12-01 05:10:24 +0000",
+      "ghast": "2024-12-10 00:13:47 +0000",
       "creeper": "2024-12-02 01:33:43 +0000",
       "enderman": "2024-12-02 22:12:48 +0000"
     },
@@ -610,6 +648,18 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-01 05:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },
@@ -685,6 +735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_leggings": {
     "criteria": {
       "has_material": "2024-12-05 04:45:05 +0000"
@@ -724,6 +780,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-02 01:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-09 20:11:30 +0000"
     },
     "done": true
   },
@@ -835,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-09 19:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-05 02:51:43 +0000"
@@ -868,6 +936,18 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-09 20:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },
@@ -946,6 +1026,12 @@
   "defiledlands:recipes/storage/scarlite_block": {
     "criteria": {
       "has_material": "2024-12-05 04:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-09 19:52:43 +0000"
     },
     "done": true
   },
@@ -1133,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-02 02:13:57 +0000"
@@ -1175,9 +1267,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-01 05:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-10 00:03:02 +0000"
     },
     "done": true
   },
@@ -1235,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-09 19:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-02 03:31:16 +0000"
@@ -1256,6 +1366,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },
@@ -1319,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-09 20:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2024-12-03 02:48:08 +0000"
@@ -1370,6 +1492,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-06 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-09 19:52:43 +0000"
     },
     "done": true
   },
@@ -1674,6 +1802,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2024-12-10 01:06:01 +0000",
       "bred_sheep": "2024-12-06 23:43:29 +0000"
     },
     "done": false
@@ -2092,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-10 00:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-09 00:50:51 +0000"
@@ -2230,6 +2365,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 00:34:59 +0000"
@@ -2239,6 +2386,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-02 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 01:01:25 +0000"
     },
     "done": true
   },
@@ -2332,6 +2485,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-09 20:35:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-02 00:29:00 +0000"
@@ -2374,6 +2533,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-12-09 22:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-07 21:47:38 +0000"
@@ -2410,9 +2581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 01:01:25 +0000"
     },
     "done": true
   },
@@ -2464,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2024-12-09 22:13:36 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/storage/scarlite_block_uncraft": {
     "criteria": {
       "has_material": "2024-12-05 04:43:57 +0000"
@@ -2506,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 01:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2024-12-02 02:13:57 +0000"
@@ -2545,6 +2740,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-12-08 23:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-09 23:57:46 +0000"
     },
     "done": true
   },

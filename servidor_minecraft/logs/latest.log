@@ -1,391 +1,318 @@
-[18:53:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:53:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:53:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:53:57] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:53:57] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:53:57] [main/INFO] [FML]: Searching /workspaces/mundo-ladilla/servidor_minecraft/./mods for mods
-[18:53:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-0.8___].jar
-[18:53:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
-[18:53:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BedBreakBegone-1.0.2.jar
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in betterbiomeblend-1.12.2-1.1.7-forge.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod Better Biome Blend (fionathemortal.betterbiomeblend.core.CoreMod) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in BetterFoliage-MC1.12-2.3.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Born In A Barn V1.8-1.12-1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod com.chocohead.biab.BornInABarn does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod Born in a Barn (com.chocohead.biab.BornInABarn) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[18:53:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:57] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:57] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[18:53:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from framevoidpatch-1.0.0.jar
-[18:53:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ISeeDragons-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod FMLCorePlugin (io.github.xcube16.iseedragons.asm.FMLCorePlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in librarianlib-1.12.2-4.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MaterialTweaker-1.1.1.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in MultiMine-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod MMFMLCorePlugin (atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin) is not signed!
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.4.1.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod RBLoadingPlugin (pw.prok.realbench.asm.RBLoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Reskillable-1.12.2-1.13.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod codersafterdark.reskillable.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod LoadingPlugin (codersafterdark.reskillable.base.asm.LoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RLMixins-1.2.15.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RLTweaker-1.12.2-0.5.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod com.charles445.rltweaker.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod RLTweaker ASM (com.charles445.rltweaker.asm.CoreLoader) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SimpleDifficulty-1.12.2-0.3.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod com.charles445.simpledifficulty.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod SimpleDifficulty ASM (com.charles445.simpledifficulty.asm.CoreLoader) is not signed!
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SnowRealMagic-1.12.2-0.7.1.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SoManyEnchantments-0.5.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod com.Shultrea.Rin.Transformer.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod SoManyEnchantments ASM (com.Shultrea.Rin.Transformer.CoreLoader) is not signed!
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.5.3.jar
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.79.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tnt_utilities-mc1.12-1.2.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod ljfa.tntutils.asm.TntuPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
-[18:53:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.6.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:53:58] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[18:53:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
-[18:53:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:53:58] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[18:53:58] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/mundo-ladilla/servidor_minecraft/./mods/%5B___MixinCompat-0.8___%5D.jar Service=LaunchWrapper Env=SERVER
-[18:53:58] [main/WARN] [FML]: The coremod MixinLoader (bedbreakbegone.mixin.MixinLoader) is not signed!
-[18:53:58] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[18:53:58] [main/WARN] [FML]: The coremod MixinLoader (framevoidpatch.mixin.MixinLoader) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod MaterialTweakerPlugin (materialtweaker.MaterialTweakerPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod RLMixinsPlugin (rlmixins.RLMixinsPlugin) is not signed!
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enchantment ItemStack Damage (Vanilla/SME)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Prevent Shulker Crate Insertion (Vanilla/Charm)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: EXPERIMENTAL: Teleporting Lag Patch (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Smoothed Crouching (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Lowered Crouch (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Offhand Enchants (Vanilla/RLCombat)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Tipped Arrow Blacklist (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Zombie Curing Ticks Spawners (Vanilla/MobSpawnerControl)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Outdated Chunk Data (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Anvil Too Expensive (Vanilla/AnvilPatch)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Stop Pigmen Portal Spawning (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Chunk Entity List (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Boss Cart/Boat Cheese (Vanilla/InfernalMobs/ScalingHealth/Champions)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enable Dragon Dismount Fix (Vanilla/IceAndFire)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: ChunkAnimator XRay (Vanilla/ChunkAnimator)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Health Desync Patch (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Mending Priorities (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Entity Tracker Desync (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Missing Particle Rendering (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Potion Amplifier Visibility (Vanilla)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: AntiWarp Handling (Vanilla/BetterSurvival)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Enchantment Item Attributes (Vanilla/SME)
-[18:53:58] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Loading: Stray/Husk Sky Spawning Fix (Vanilla)
-[18:53:58] [main/WARN] [FML]: The coremod snownee.snow.core.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:53:58] [main/WARN] [FML]: The coremod Snow! Real Magic! (snownee.snow.core.CoreMod) is not signed!
-[18:53:58] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[18:53:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:53:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:53:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:53:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [betterbiomeblend]: Found valid Mixin framework! Proceeding to load.
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[18:53:59] [main/ERROR] [mixin]: Mixin config mixins.mixincompat.json does not specify "minVersion" property
-[18:53:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [RLTweakerASM]: ConfigSetup is running.
-[18:54:00] [main/INFO] [RLTweakerASM]: Server Type: NONE
-[18:54:00] [main/INFO] [RLTweakerASM]: Patcher is enabled
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Concurrent Particles
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Less Collisions
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Real Bench
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Myrmex Queen Hive Spam
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Lycanites Dupe Patch
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Door Pathfinding
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Reduced Search Size
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Broadcast Sounds
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Enchant
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Aggressive Motion Checker
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Entity Breakable
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Item Frame Dupe
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Push Reaction
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Overlay Message
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Anvil Dupe Fix
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Hopper
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Old Hippocampus
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Old Gorgon
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Waystone Scroll
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Pathfinding Chunk Cache
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Chunk Ticks
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Cure Potion
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Amphithere Tame Damage
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Potion Core Resistance
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Custom Attribute Instances
-[18:54:00] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Falling Block Portal Dupe
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:54:00] [main/INFO] [ISeeDragons]: Adding Patchers
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Fix Dragon Item Lag] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Ice and Fire Axe fix] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Stop Log Spammers] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Ice and Fire Myrmex egg dupe fix] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Remove all achievements] disabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Sea Serpent Spawn Fix] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Fix Dragon Escape] disabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Hook Structure Generator] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Patch MmmMmm dummy] enabled
-[18:54:00] [main/INFO] [ISeeDragons]: ASM patcher: [Patch Statue Dupe] enabled
-[18:54:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:54:00] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:54:00] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:54:00] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[18:54:00] [main/WARN] [mixin]: Reference map 'mixins.mixincompat.refmap.json' for mixins.mixincompat.json could not be read. If this is a development environment you can ignore this message
-[18:54:00] [main/INFO] [Meson ASM]: Transforming EntityPlayer
-[18:54:00] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
-[18:54:00] [main/INFO] [Meson ASM]: Located method, patching...
-[18:54:00] [main/INFO] [Meson ASM]: Located target IINC 1 1
-[18:54:00] [main/INFO] [Meson ASM]: Patch result: true
-[18:54:00] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
-[18:54:00] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityItemFrame
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityItemFrame with flags MAXS
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.block.Block
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.block.Block with flags MAXS | FRAMES
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
-[18:54:01] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
-[18:54:01] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.bloodmoon.asm.ClassTransformer' was detected and will no longer process meta class data
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Transforming World
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Patch result: Success
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Patch result: Success
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node ARETURN
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.enchantment.EnchantmentHelper
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.enchantment.EnchantmentHelper with flags MAXS
-[18:54:01] [main/INFO] [STDOUT]: [com.Shultrea.Rin.Transformer.SMEASM:transform:48]: Patching EnchantmentHelper
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.ServerWorldEventHandler
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.ServerWorldEventHandler with flags MAXS
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.EntityLivingBase
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.EntityLivingBase with flags MAXS | FRAMES
-[18:54:01] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
-[18:54:01] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[18:54:01] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Transforming World
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Patch result: Success
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
-[18:54:01] [main/INFO] [LibrarianLib ASM]: Patch result: Success
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS
-[18:54:01] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
-[18:54:01] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
-[18:54:01] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:01] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:01] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
-[18:54:01] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS
-[18:54:01] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[18:54:01] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[18:54:02] [main/INFO] [Meson ASM]: Transforming EntityPlayer
-[18:54:02] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
-[18:54:02] [main/INFO] [Meson ASM]: Located method, patching...
-[18:54:02] [main/INFO] [Meson ASM]: Located target IINC 1 1
-[18:54:02] [main/INFO] [Meson ASM]: Patch result: true
-[18:54:02] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[18:54:02] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.EntityLivingBase
-[18:54:02] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.EntityLivingBase with flags MAXS | FRAMES
-[18:54:02] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
-[18:54:02] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
-[18:54:02] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:02] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:02] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.potion.PotionEffect
-[18:54:02] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.potion.PotionEffect with flags MAXS | FRAMES
-[18:54:02] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[18:54:02] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
-[18:54:02] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
-[18:54:02] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:02] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:02] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:02] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
-[18:54:02] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:02] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
-[18:54:02] [main/INFO] [Quark ASM]: Located Method, patching...
-[18:54:02] [main/INFO] [Quark ASM]: Patch result: true
-[18:54:02] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
-[18:54:02] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
-[18:54:02] [main/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  net.minecraft.advancements.AdvancementManager!
-[18:54:02] [main/INFO] [ISeeDragons]: Applying patch [Stop Log Spammers] 
-[18:54:02] [main/INFO] [ISeeDragons]: Writing class net.minecraft.advancements.AdvancementManager with flags None
-[18:54:02] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:54:02] [main/INFO] [net.minecraft.server.MinecraftServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[00:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -23.5, 37.5, -4616.5]
+[00:00:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:00:56] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension 1 (world)
+[00:00:56] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension 1 (world) to HARD
+[00:00:56] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3061
+[00:00:56] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[00:01:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Timed out
+[00:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[00:01:29] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 1 (world) to config
+[00:01:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:01:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:01:48] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:01:48] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:01:48] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:01:48] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:01:49] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:01:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:01:49] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:01:50] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:01:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:01:52] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:01:52] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension 1 (world)
+[00:01:52] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension 1 (world) to HARD
+[00:01:52] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3061
+[00:01:52] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[00:01:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:48857] logged in with entity id 1337491 at (-24.0035051364528, 39.8125, -4623.411576428329)
+[00:01:52] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[00:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[00:01:52] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[00:01:52] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[00:01:52] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[00:01:52] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[00:01:52] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[00:01:52] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[00:01:52] [Thread-559/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[00:02:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to 100.5, 49.5, 0.5]
+[00:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has reached the goal [The Next Generation]
+[00:05:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:05:18] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:05:18] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:05:18] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:05:18] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:05:19] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:05:19] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:05:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Void Trite  Lvl 3
+[00:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -23.5, 37.5, -4616.5]
+[00:06:11] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 1 (world) to config
+[00:06:11] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:06:16] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:06:16] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension 1 (world)
+[00:06:16] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension 1 (world) to HARD
+[00:06:16] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3061
+[00:06:16] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:11] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins: Detected player Brick_123 missing from worlds for Reskillable check, passing check. This should only happen when a player is returning from the End, if you believe it is in error, please report it.
+[00:07:26] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 1 (world) to config
+[00:07:26] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:10:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:10:12] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:10:12] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:10:12] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:10:12] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:10:12] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:10:12] [Server thread/INFO] [antiqueatlas]: Player Brick_123 left the overworld
+[00:10:12] [Server thread/INFO] [antiqueatlas]: Entering
+[00:10:12] [Server thread/INFO] [antiqueatlas]: Player Brick_123 teleported to the the_nether
+[00:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [A Terrible Fortress]
+[00:14:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[00:21:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 died from hyperthermia
+[00:21:20] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:21:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:21:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:21:26] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:21:26] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:21:26] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:21:26] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:21:27] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:21:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:21:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:21:48] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:21:48] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:21:48] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:21:48] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:21:48] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:21:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:21:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:21:49] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:21:49] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:21:49] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:21:49] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:21:49] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:21:49] [Server thread/INFO] [antiqueatlas]: Player Brick_123 left the overworld
+[00:21:49] [Server thread/INFO] [antiqueatlas]: Entering
+[00:21:49] [Server thread/INFO] [antiqueatlas]: Player Brick_123 teleported to the the_nether
+[00:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -404.5, 72.5, -687.5]
+[00:27:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -123.5, 60.5, -546.5]
+[00:27:20] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:27:20] [Server thread/INFO] [antiqueatlas]: Player Brick_123 left the the_nether
+[00:27:21] [Server thread/INFO] [antiqueatlas]: Entering
+[00:27:21] [Server thread/INFO] [antiqueatlas]: Player Brick_123 teleported to the overworld
+[00:27:21] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:27:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:30:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[00:30:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[00:30:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was incinerated by a dragon
+[00:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[00:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -674.5, 63.5, -4700.5]
+[00:31:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:31:26] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:31:26] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:31:26] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:31:26] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:31:27] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:31:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was turned into KFC by a dragon
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:33:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:35:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[00:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was incinerated by a dragon
+[00:35:41] [Thread-638/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[00:37:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was incinerated by a dragon
+[00:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -673.5, 61.5, -4693.5]
+[00:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was turned into KFC by a dragon
+[00:38:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -670.5, 67.5, -4709.5]
+[00:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was incinerated by a dragon
+[00:38:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -718.5, 69.5, -4673.5]
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:39:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[00:40:23] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by fandangolol
+[00:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[00:40:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:40:51] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:40:51] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:40:51] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:40:51] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:40:52] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:40:53] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:42:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:42:00] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:42:00] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:42:00] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:42:00] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:42:01] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:42:02] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -758.5, 61.5, -4593.5]
+[00:42:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[00:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -671.5, 60.5, -4696.5]
+[00:42:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:42:51] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:42:51] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:42:51] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:42:51] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:42:51] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:42:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[00:44:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Disconnected
+[00:44:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[00:45:08] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:45:08] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:45:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:45:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:54497] logged in with entity id 1435968 at (-1029.7875081568982, 40.0, -4445.534167178827)
+[00:45:11] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[00:45:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[00:45:11] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[00:45:11] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[00:45:11] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[00:45:11] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[00:45:11] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[00:45:11] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[00:45:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Timed out
+[00:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[00:45:44] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:45:44] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:45:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:45:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:42511] logged in with entity id 1436307 at (-1029.7875081568982, 40.0, -4445.534167178827)
+[00:45:47] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[00:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[00:45:47] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[00:45:47] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[00:45:47] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[00:45:47] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[00:45:47] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[00:45:47] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[00:46:01] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:46:01] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:46:01] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:46:01] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:46:01] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:46:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Timed out
+[00:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[00:46:02] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:46:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:46:08] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:46:08] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:46:08] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:46:08] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:46:08] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:46:09] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:46:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:46:18] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:46:18] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:46:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:53539] logged in with entity id 1437066 at (-1029.7875081568982, 40.0, -4445.534167178827)
+[00:46:20] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[00:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[00:46:20] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[00:46:20] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[00:46:20] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[00:46:20] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[00:46:20] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[00:46:20] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[00:48:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:48:16] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:48:16] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:48:16] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:48:16] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:48:16] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:48:17] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:48:55] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[00:48:55] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (14 tiles)
+[00:48:55] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player fandangolol
+[00:48:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player fandangolol
+[00:49:07] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:50:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:50:16] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:50:16] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:50:16] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:50:16] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:50:17] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:50:17] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:50:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2b034b7a)
+[00:50:46] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:50:46] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:50:46] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:50:46] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:50:47] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:50:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:51:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Disconnected
+[00:51:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[00:52:25] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:52:25] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:52:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:52:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:37307] logged in with entity id 1442782 at (-1033.2935092107357, 40.0, -4442.474434461145)
+[00:52:28] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[00:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[00:52:28] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[00:52:28] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[00:52:28] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[00:52:28] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[00:52:28] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[00:52:28] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[00:54:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fandangolol lost connection: Disconnected
+[00:54:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol left the game
+[00:57:43] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[00:58:01] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[00:58:01] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[00:58:01] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[00:59:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[00:59:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 4aaa3f58-9333-479f-be2e-248566e167ba
+[01:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:05:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 4aaa3f58-9333-479f-be2e-248566e167ba
+[01:08:41] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:08:41] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:08:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:10:11] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:10:28] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:10:28] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:10:28] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:10:50] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:11:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 4aaa3f58-9333-479f-be2e-248566e167ba
+[01:13:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Disconnected
+[01:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[01:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:26:30] [Server thread/INFO] [AUW]: Stopping DS...
+[01:26:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:26:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:26:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:26:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:26:30] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[01:26:30] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:26:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:26:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:26:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
