@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:44:25 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-01 04:25:39 +0000"
@@ -170,6 +182,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-05 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -212,6 +230,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -707,6 +731,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-09 00:50:24 +0000"
@@ -788,6 +824,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -1010,6 +1052,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -1275,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
     "criteria": {
       "has_material": "2024-12-05 07:19:01 +0000"
@@ -1326,6 +1380,12 @@
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2024-12-01 05:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -1428,6 +1488,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 04:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -2498,6 +2564,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 00:22:27 +0000"
@@ -2654,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-06 23:20:03 +0000"
@@ -2681,6 +2765,12 @@
   "mujmajnkraftsbettersurvival:gold_nunchaku": {
     "criteria": {
       "has_gold": "2024-12-02 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
@@ -2801,6 +2891,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-05 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2024-12-10 23:36:58 +0000"
     },
     "done": true
   },
