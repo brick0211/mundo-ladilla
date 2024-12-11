@@ -3799,3 +3799,282 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:17:54] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
 [20:17:55] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
 [20:17:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:19:27] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
+[20:19:27] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
+[20:19:27] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[20:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1031.5, 40.5, -4442.5]
+[20:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> frio de mierda
+[20:20:51] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[20:20:51] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[20:20:51] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:20:51] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[20:20:51] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ya lo hice
+[20:21:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Disconnected
+[20:21:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[20:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -108.5, 70.5, -4556.5]
+[20:21:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[20:21:55] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:21:55] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[20:21:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:21:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:37755] logged in with entity id 31477 at (-1028.6106396547143, 40.0, -4441.831398182207)
+[20:21:58] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[20:21:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[20:21:58] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[20:21:58] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[20:21:58] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[20:21:58] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[20:21:58] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[20:21:58] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[20:23:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@52c4abef)
+[20:23:06] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[20:23:06] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[20:23:06] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7076
+[20:23:06] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:23:07] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[20:23:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:23:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:23:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@52c4abef)
+[20:23:54] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[20:23:54] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[20:23:54] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7076
+[20:23:54] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:23:55] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[20:23:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2872.5, 48.5, -6986.5]
+[20:24:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:24:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[20:25:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:49] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:25:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -2327.5, 63.5, -4886.5]
+[20:26:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:beholder but it was marked as removed already
+[20:26:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:26:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4494ms behind, skipping 89 tick(s)
+[20:27:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -6.628013996160462,-4.6900762008871055,-6.342423759962003
+[20:27:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:27:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:27:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:28:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:28:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ustedes estan lag??
+[20:30:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -2327.5, 63.5, -4886.5]
+[20:30:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly moved too quickly! -5.540771123237391,2.6025569919529232,-7.967081393526314
+[20:30:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2568ms behind, skipping 51 tick(s)
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.339613649746298,0.0683999999999827,-9.581037763173299
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.030020325940313,0.07819999999998117,-10.833925079400615
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.717787287033389,0.08799999999997965,-12.052459481154983
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 7.407840336701611,0.09779999999997813,-13.232790593054233
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.100209271040967,0.1075999999999766,-14.376789351285879
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.794767429750209,0.11739999999997508,-15.48644284394777
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 9.49139507983,0.12719999999997356,-16.56362948136848
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 10.189979036714249,0.13699999999997203,-17.610124939909838
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 10.890412306124745,0.1467999999999705,-18.627607780691505
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 11.592593745511294,0.156599999999969,-19.617664761013657
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 12.296427744008724,0.5583999999999634,-20.581795855288874
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 13.00182391989938,0.9601999999999578,-21.521419001371214
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 13.708696834620241,1.3619999999999521,-22.437874587295482
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 14.416965722411078,1.7637999999999465,-23.332429692630285
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 15.126246134616395,2.165599999999941,-24.2067143935883
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 15.836275682434916,2.5673999999999353,-25.062122383375026
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 16.54706604741523,2.9691999999999297,-25.899613991508886
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 17.258522965712473,2.978999999999928,-26.720241175302363
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 17.97019255598252,2.9887999999999266,-27.52548816520175
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 18.681741284440704,2.998599999999925,-28.31661825072115
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 19.39301454559518,3.0083999999999236,-29.094611403035742
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 20.104027405296165,3.018199999999922,-29.86018610693918
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 20.814794105412602,3.0279999999999205,-30.61402155187261
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 21.525276051691435,3.037799999999919,-31.356826420924335
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 22.235488817882015,3.0475999999999175,-32.089203998049015
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 22.945392051282397,3.057399999999916,-32.81179481462459
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 23.654947479499697,3.0671999999999144,-33.525204269520145
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 24.364174124685633,3.076999999999913,-34.2299345095189
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 25.073089968632758,3.0867999999999114,-34.92646021800556
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.364214667944452,0.11739999999997508,-8.210110311046265
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 9.072451344715319,0.12719999999997356,-8.891684836089553
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -12.78197979688548,-2.9205999999999506,19.104800426168367
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -5.824848268206551,-2.822599999999966,7.7875250878423685
+[20:30:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
+[20:30:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.972727947816111,0.0683999999999827,-8.367902933797268
+[20:30:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.797267950661535,0.07819999999998117,-9.43259590739126
+[20:30:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.96000403554217,0.07819999999998117,-8.711023162810307
+[20:30:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.56922913271228,0.08799999999997965,-9.598870293012624
+[20:30:45] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.attackDamage'
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.9905166937519425,0.08799999999997965,-8.949568486385033
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.355054330617804,0.09779999999997813,-9.797744899015925
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.689424405451973,0.1075999999999766,-10.621794754457369
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.995276841735176,0.11739999999997508,-11.423037581718745
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.27417132537812,0.12719999999997356,-12.202720742164274
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.527701910286396,0.13699999999997203,-12.962077979946116
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.758964599954197,0.1467999999999705,-13.702918809191033
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 6.998091212598865,0.156599999999969,-14.41663944208176
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 7.248344970890685,0.16639999999996746,-15.087537655325832
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 7.505028870235492,0.17619999999996594,-15.707758992935851
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 7.766056043604749,0.18599999999996442,-16.27786171247135
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.03107200632303,0.1957999999999629,-16.800455145822525
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.299858603632401,0.20559999999996137,-17.2781376695757
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.572209612088045,0.21539999999995985,-17.713365549973787
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 8.847930087013083,0.22519999999995832,-18.108460715215188
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 9.126835745639255,0.2349999999999568,-18.46561810266394
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 9.408752383985757,0.24479999999995528,-18.786912604229656
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.413596418503857,0.16639999999996746,-9.933506932949967
+[20:30:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.701049993507695,0.17619999999996594,-10.18885262519143
+[20:31:02] [Server thread/INFO] [Scaling Health]: Blight Wraamon  Lvl 2 was killed by Brick_123
+[20:31:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:31:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:31:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[20:31:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Disconnected
+[20:31:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[20:31:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:31:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:21] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:32:21] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 190 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[20:32:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:32:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Brick_123[/127.242.134.42:39881] logged in with entity id 69056 at (-2747.699999988079, 26.0, -7034.699999988079)
+[20:32:25] [Server thread/INFO] [dsurround]: Player [Brick_123] connected with Dynamic Surroundings 3.6.2.1
+[20:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 joined the game
+[20:32:25] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Brick_123
+[20:32:25] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Brick_123
+[20:32:25] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Brick_123
+[20:32:25] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Brick_123
+[20:32:25] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Brick_123
+[20:32:25] [Server thread/INFO] [XAT]: Syncing Config to Brick_123
+[20:32:25] [Thread-94/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[20:32:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:33:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by The Killer Bunny
+[20:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[20:34:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 4aaa3f58-9333-479f-be2e-248566e167ba
+[20:34:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -2327.5, 63.5, -4886.5]
+[20:34:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:34:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:34:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! 8.946086671483044,0.0,5.910733267175601
+[20:35:04] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:04] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:04] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:04] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[20:35:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly died from hypothermia
+[20:35:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 4aaa3f58-9333-479f-be2e-248566e167ba
+[20:35:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:35:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -2434.5, 90.5, -5286.5]
+[20:35:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by The Killer Bunny
+[20:36:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:07] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by fandangolol
+[20:36:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -2443.5, 90.5, -5279.5]
+[20:36:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> a
+[20:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> A
+[20:36:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:36:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:37:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:37:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:37:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:37:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -153 and chunkZ -459...
+[20:37:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -2436, "y": 0, "z": -7352}...
+[20:37:44] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -2436, "y": 0, "z": -7352}.
+[20:37:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[20:38:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> se me rompieron las botas lpm
+[20:39:03] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Rudolph The Bloodstained Jabberwock In Dimension: 0 Duration: 60secs
+[20:39:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
