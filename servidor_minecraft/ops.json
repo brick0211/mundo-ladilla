@@ -16,5 +16,11 @@
     "name": "Brick_123",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8109f115-183c-346b-8675-ea081012d002",
+    "name": "Wutfru",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
