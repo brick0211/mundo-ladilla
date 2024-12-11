@@ -657,3 +657,15 @@
 [01:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [An Even Bigger Quiver?]
 [01:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [Best Friends Forever]
 [01:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[01:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2568.5, 107.5, -4764.5]
+[01:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2568.5, 107.5, -4764.5]
+[01:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[01:54:34] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[01:54:34] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[01:54:34] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[01:54:34] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[01:54:34] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:54:35] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[01:54:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:55:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2653.5, 36.5, -4518.5]
