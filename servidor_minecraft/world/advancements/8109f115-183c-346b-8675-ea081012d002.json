@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 22:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-02 00:11:48 +0000"
@@ -311,6 +317,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2024-12-11 21:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-11 22:16:26 +0000"
     },
     "done": true
   },
@@ -1012,6 +1024,7 @@
       "deep_ocean": "2024-12-01 04:27:21 +0000",
       "beaches": "2024-12-01 04:19:24 +0000",
       "desert_hills": "2024-12-01 04:13:08 +0000",
+      "forest_hills": "2024-12-11 22:16:16 +0000",
       "plains": "2024-12-01 04:30:20 +0000",
       "savanna": "2024-12-11 20:48:39 +0000",
       "savanna_rock": "2024-12-11 20:55:14 +0000",
