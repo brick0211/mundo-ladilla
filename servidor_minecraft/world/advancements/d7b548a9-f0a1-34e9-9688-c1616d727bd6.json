@@ -733,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2024-12-05 06:18:27 +0000"
@@ -1066,6 +1072,12 @@
   "defiledlands:recipes/misc/calling_stone": {
     "criteria": {
       "has_material": "2024-12-07 05:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:30:27 +0000"
     },
     "done": true
   },
@@ -1548,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-11 03:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 23:44:40 +0000"
@@ -1629,6 +1647,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-05 07:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-11 03:31:44 +0000"
     },
     "done": true
   },
@@ -2164,6 +2188,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:30:27 +0000"
     },
     "done": true
   },
@@ -2914,6 +2944,12 @@
   "defiledlands:recipes/material/ravaging_ingot": {
     "criteria": {
       "has_material": "2024-12-07 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:30:27 +0000"
     },
     "done": true
   },

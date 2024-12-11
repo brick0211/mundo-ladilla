@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-11 03:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-02 00:24:32 +0000"
@@ -890,6 +896,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-09 20:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-11 03:29:04 +0000"
     },
     "done": true
   },
@@ -1524,6 +1536,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 03:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-11 03:29:13 +0000"
     },
     "done": true
   },
