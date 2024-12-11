@@ -9793,9 +9793,9 @@
       "questID:3": 297,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "d7b548a9-f0a1-34e9-9688-c1616d727bd6",
-          "timestamp:4": 1733888160785
+          "timestamp:4": 1733888336929
         }
       },
       "tasks:9": {
