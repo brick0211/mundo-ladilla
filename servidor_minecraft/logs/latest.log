@@ -6056,3 +6056,46 @@ java.lang.IllegalStateException: Attepted to start more than one BQ packet assem
 [23:39:33] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TitoWilly
 [23:39:33] [Server thread/INFO] [XAT]: Syncing Config to TitoWilly
 [23:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -4265.5, 50.5, 4182.5]
+[23:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to Wutfru]
+[23:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wutfru was slain by Brick_123
+[23:42:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[23:42:45] [Thread-358/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 8109f115-183c-346b-8675-ea081012d002.
+[23:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:42:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Darkling  Lvl 3
+[23:42:56] [Thread-360/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[23:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -742.5, 47.5, -4114.5]
+[23:42:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:43:17] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 255...
+[23:43:17] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -4340, "y": 0, "z": 3979}...
+[23:43:18] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -4340, "y": 0, "z": 3979}.
+[23:43:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -4056 | 4104 ], underground: true
+[23:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wutfru was slain by Darkling  Lvl 3
+[23:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:43:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -3960 | 4488 ], underground: false
+[23:44:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3012ms behind, skipping 60 tick(s)
+[23:44:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -136.5, 30.5, -4527.5]
+[23:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1031.5, 40.5, -4442.5]
+[23:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:45:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -136.5, 30.5, -4527.5]
+[23:45:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:45:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:46:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:47:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:47:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Wutfru: Teleported Wutfru to Brick_123]
+[23:49:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:49:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 lost connection: Timed out
+[23:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 left the game
+[23:49:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:49:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:49:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:50:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -1.959363848164685,0.0,10.361552873209803
+[23:50:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -2.1749071555650517,0.0,11.145242388629413
+[23:51:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:51:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
