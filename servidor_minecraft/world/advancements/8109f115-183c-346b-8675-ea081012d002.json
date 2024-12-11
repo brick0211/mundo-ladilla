@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-11 23:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-01 04:33:47 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 23:26:11 +0000"
     },
     "done": true
   },
@@ -434,6 +446,12 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-11 23:25:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:40 +0000"
@@ -458,6 +476,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-11 21:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-11 23:27:26 +0000"
     },
     "done": true
   },
@@ -656,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-11 23:26:11 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2024-12-02 00:14:37 +0000"
@@ -704,9 +734,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 23:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-12-11 23:27:26 +0000"
     },
     "done": true
   },
@@ -962,6 +1004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 23:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-01 04:33:56 +0000"
@@ -1064,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-11 23:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-01 04:16:36 +0000"
@@ -1096,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 23:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:12 +0000"
@@ -1111,6 +1171,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-12-11 23:25:29 +0000"
     },
     "done": true
   },
@@ -1150,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 23:26:02 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/leather_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-01 05:04:33 +0000"
@@ -1171,6 +1243,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-01 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-11 23:27:26 +0000"
     },
     "done": true
   },
