@@ -4892,3 +4892,169 @@ java.lang.IllegalStateException: Attepted to start more than one BQ packet assem
 [22:38:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -113.5, 30.5, -4530.5]
 [22:38:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:39:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:39:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -6.975822305280417,0.09779999999997813,8.324524752051559
+[22:39:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -7.6803862744118305,0.1075999999999766,9.082903240876078
+[22:39:43] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -4120 | 40 ], underground: false
+[22:39:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 0...
+[22:39:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -3778, "y": 0, "z": 111}...
+[22:39:45] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -3778, "y": 0, "z": 111}.
+[22:39:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6291ms behind, skipping 125 tick(s)
+[22:39:49] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityGorgon$4!
+[22:39:49] [Server thread/INFO] [ISeeDragons]: Applying patch [HookGorgonHead] Hook EntityGorgon$4 to stop some entities from getting stoned
+[22:39:49] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityGorgon$4 with flags FRAMES
+[22:39:49] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:39:49] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:39:49] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:39:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:39:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -805.5, 49.5, -367.5]
+[22:39:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:39:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fandangolol lost connection: Disconnected
+[22:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol left the game
+[22:39:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:39:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:40:00] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:40:00] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 189 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[22:40:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:40:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: fandangolol[/127.199.177.232:32819] logged in with entity id 368880 at (-117.33920837310455, 30.0, -4530.699999988079)
+[22:40:04] [Server thread/INFO] [dsurround]: Player [fandangolol] connected with Dynamic Surroundings 3.6.2.1
+[22:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol joined the game
+[22:40:04] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player fandangolol
+[22:40:04] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: fandangolol
+[22:40:04] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: fandangolol
+[22:40:04] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player fandangolol
+[22:40:04] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player fandangolol
+[22:40:04] [Server thread/INFO] [XAT]: Syncing Config to fandangolol
+[22:40:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -805.5, 49.5, -367.5]
+[22:41:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:41:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@59eeb9e2)
+[22:42:48] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[22:42:48] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[22:42:48] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7076
+[22:42:48] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[22:42:49] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[22:42:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:42:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:43:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:43:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:43:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol walked into fire whilst fighting Vex
+[22:44:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID a96cec37-c125-453e-bb78-c1482b619683
+[22:47:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2591ms behind, skipping 51 tick(s)
+[22:47:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:47:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3212ms behind, skipping 64 tick(s)
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 3.2113384788199255,0.09779999999997813,10.12019619801498
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 3.5438616507990446,0.1075999999999766,11.094630825167542
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 3.8773787928557795,0.11739999999997508,12.060861783271832
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.189584307485347,0.12719999999997356,13.024153269753299
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.4816437696335925,0.13699999999997203,13.984666050113844
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 4.7546590066540375,0.1467999999999705,14.942552097272937
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.009762496772964,0.156599999999969,15.897960582155577
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.249542955754805,0.16639999999996746,16.85109709141676
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.478428000923486,0.17619999999996594,17.80205543336234
+[22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 5.701656790974084,0.18599999999996442,18.75053088763076
+[22:48:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 3.0184030674718088,0.1075999999999766,10.24990534312866
+[22:48:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 2.887801602840227,0.10739999999996996,9.88774079187209
+[22:48:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:48:38] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -4248 | 488 ], underground: true
+[22:48:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9790ms behind, skipping 195 tick(s)
+[22:49:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:49:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:49:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:49:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2416ms behind, skipping 48 tick(s)
+[22:49:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:41] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 51...
+[22:49:41] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -4164, "y": 0, "z": 1001}...
+[22:49:43] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -4164, "y": 0, "z": 1001}.
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.663915906911825,4.870399999999918,9.552578710316197
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.6767944502798855,5.272199999999913,10.217152253530003
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.6873716659138154,5.673999999999907,10.894352928738954
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.6957734179677573,6.0757999999999015,11.583490133184
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.70097826057372,6.477599999999896,12.28386054194857
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.7000075682053648,6.87939999999989,12.994570921146874
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.6813950548867069,7.281199999999885,13.711738561475613
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.6388193052580391,7.682999999999879,14.431836660724457
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.5939337968457039,8.084799999999873,15.162335566465686
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.5468648549149293,8.486599999999868,15.902666438073993
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.4977318957517127,8.888399999999862,16.65229154593999
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.44664780453058484,9.290199999999857,17.410702569947603
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.3937192925131967,9.691999999999851,18.177418991010427
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.33904723471096077,10.093799999999845,18.95198657057915
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.2827269890831303,10.103599999999844,19.733975913306494
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.2248486982725808,10.113399999999842,20.522981108324075
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.1654116659256033,10.12319999999984,21.318610368400186
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.10431983094895259,10.13299999999984,22.12048386795709
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! -0.041039156570150226,10.142799999999838,22.928194565637682
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.02448689061202458,10.152599999999836,23.741403283258023
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.09213550672939164,10.162399999999835,24.559809323261334
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.16179060430022218,10.172199999999833,25.383128433833463
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.2333424448952428,10.181999999999832,26.211091909452648
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.30668729189619626,10.19179999999983,27.043445740632365
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.3817270822464707,10.201599999999829,27.87994981016584
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.4583691161496972,10.211399999999827,28.72037713333009
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.5365257637458853,10.221199999999826,29.564513139644532
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.6161141878237686,10.230999999999824,30.41215499391126
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.6970560817026126,10.240799999999822,31.263110954389617
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.8003432023424466,10.250599999999821,32.108566130134705
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.924753445209717,10.26039999999982,32.948821369915436
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 1.0691315450794718,10.270199999999818,33.78416106848783
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 1.2323854204605595,10.279999999999816,34.61485406649774
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 1.41348271795232,10.289799999999815,35.44115450116567
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 1.9616486035529306,0.1957999999999629,16.662300298286482
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 2.1755584428556176,0.20559999999996137,17.480523181046806
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon (vehicle of TitoWilly) moved too quickly! 0.07579320418062707,-10.054999999999865,-16.776614136612807
+[22:49:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[22:49:54] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -4056 | 1032 ], underground: false
