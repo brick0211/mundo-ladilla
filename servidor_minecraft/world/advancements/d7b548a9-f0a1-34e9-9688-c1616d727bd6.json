@@ -907,6 +907,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_quiver": {
+    "criteria": {
+      "quiver_bolt": "2024-12-11 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"

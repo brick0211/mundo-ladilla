@@ -772,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-11 01:43:14 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/baubles/scarlite_ring": {
     "criteria": {
       "has_material": "2024-12-05 04:43:34 +0000"
