@@ -877,6 +877,12 @@
     },
     "done": true
   },
+  "spartanweaponry:crossbow": {
+    "criteria": {
+      "craft": "2024-12-11 01:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-02 00:55:33 +0000"

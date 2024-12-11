@@ -277,3 +277,91 @@
 [01:12:51] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
 [01:12:51] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [...And my Axe!]
+[01:14:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> zzzz
+[01:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -3806.5, 102.5, -2586.5]
+[01:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [The Bender of the 15th Century]
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -4.934929621757419,6.006000000000071,-7.28498291392998
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -5.480572646523342,6.552000000000078,-7.873257626303712
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -5.96182978161778,6.552000000000078,-8.392115908872256
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -6.386298563526452,6.552000000000078,-8.849748901974635
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -6.7606800192520495,6.552000000000078,-9.253381191198514
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -7.090884454454681,6.552000000000078,-9.609384860862974
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -7.382124758588361,6.552000000000078,-9.923380089188868
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -7.638998700029333,6.552000000000078,-10.200323873235902
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -7.865561510378484,6.552000000000078,-10.444588284294696
+[01:17:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! -8.065389903812957,6.552000000000078,-10.66002948914138
+[01:17:16] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ -204...
+[01:17:17] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -3975, "y": 0, "z": -3312}...
+[01:17:18] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -3975, "y": 0, "z": -3312}.
+[01:17:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2465ms behind, skipping 49 tick(s)
+[01:18:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:15] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -204 and chunkZ -204...
+[01:18:15] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -3450, "y": 0, "z": -3377}...
+[01:18:16] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -3450, "y": 0, "z": -3377}.
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 7.037749587975213,-7.644000000000091,-0.19988177345703662
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 7.3740572142096426,-8.190000000000097,-0.210606340616323
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 7.7000619401155745,-8.736000000000104,-0.22111092214936434
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 8.016979508172426,-9.28200000000011,-0.2314214763646305
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 8.325882203218498,-9.828000000000117,-0.2415608984906612
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 8.627715780456128,-10.374000000000123,-0.2515493821179007
+[01:18:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 (vehicle of Brick_123) moved too quickly! 8.923314395952275,-10.92000000000013,-0.26140473799250685
+[01:20:45] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:45] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:45] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:45] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:49] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:50] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:50] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:50] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:50] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:52] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:52] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:53] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:53] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:53] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:20:54] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:21:06] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-2760, y=50, z=-4040}
+[01:21:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[01:21:07] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[01:21:07] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[01:21:07] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[01:21:07] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:21:08] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[01:21:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:21:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
+[01:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Roc  Lvl 5 moved wrongly!
+[01:22:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was burnt to a crisp whilst fighting Fire Dragon
+[01:22:57] [Thread-320/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[01:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2857.5, 71.5, -4158.5]
+[01:23:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:23:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Naxiris moved wrongly!
+[01:23:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Naxiris moved wrongly!
+[01:23:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Naxiris moved wrongly!
+[01:23:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123's Naxiris moved wrongly!
+[01:24:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:24:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:24:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:24:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Fire Dragon moved wrongly!
+[01:24:27] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:24:27] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:24:27] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
