@@ -1439,3 +1439,26 @@
 [02:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
 [02:25:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly lost connection: Disconnected
 [02:25:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly left the game
+[02:28:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[02:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1049.5, 66.5, -4416.5]
+[02:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[02:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1049.5, 66.5, -4416.5]
+[02:30:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[02:30:02] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[02:30:02] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[02:30:02] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[02:30:02] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[02:30:03] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[02:30:03] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[02:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1049.5, 66.5, -4416.5]
+[02:32:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[02:36:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1038.5, 40.5, -4448.5]
+[02:43:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved wrongly!
+[02:45:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[02:45:56] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[02:45:56] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[02:45:56] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[02:45:56] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[02:45:57] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[02:45:57] [Server thread/INFO] [FML]: Unloading dimension -1
