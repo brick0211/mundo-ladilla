@@ -657,8 +657,10 @@
     "criteria": {
       "skeleton": "2024-12-01 04:45:03 +0000",
       "zombie": "2024-12-01 04:45:05 +0000",
+      "cave_spider": "2024-12-11 23:39:30 +0000",
       "spider": "2024-12-02 00:14:29 +0000",
-      "creeper": "2024-12-01 04:23:06 +0000"
+      "creeper": "2024-12-01 04:23:06 +0000",
+      "enderman": "2024-12-11 23:40:33 +0000"
     },
     "done": false
   },
@@ -1165,6 +1167,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-11 23:39:23 +0000"
     },
     "done": true
   },
