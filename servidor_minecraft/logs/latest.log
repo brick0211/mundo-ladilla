@@ -669,3 +669,28 @@
 [01:54:35] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
 [01:54:35] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:55:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -2653.5, 36.5, -4518.5]
+[01:57:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[01:57:17] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[01:57:17] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[01:57:17] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[01:57:17] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:57:17] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[01:57:18] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:57:38] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[01:57:38] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[01:57:38] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[01:57:38] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[01:57:38] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[01:57:39] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[01:57:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[01:59:43] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by Brick_123
+[02:00:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[02:00:43] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[02:00:43] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[02:00:43] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[02:00:43] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[02:00:44] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[02:00:44] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:01:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly moved wrongly!
+[02:04:25] [Server thread/INFO] [Scaling Health]: Blight Troll was killed by TitoWilly
