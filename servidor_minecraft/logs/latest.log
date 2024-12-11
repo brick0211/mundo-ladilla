@@ -143,3 +143,20 @@
 [00:30:56] [Server thread/INFO] [FML]: Unloading dimension -1
 [00:32:19] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{rustic:ironwoodbranchx} not valid branch for rustic:ironwood.
 [00:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[00:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -3806.5, 102.5, -2586.5]
+[00:34:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[00:35:20] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7faec51)
+[00:35:20] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:35:20] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[00:35:20] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 7040
+[00:35:20] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:35:21] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:35:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:35:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -3806.5, 102.5, -2586.5]
+[00:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[00:37:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -21.527635103148896,-5.0315237499033,42.414322346194695
+[00:37:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -20.553505790032432,-4.705079768498749,40.822715165904356
+[00:37:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -20.01658722013235,-4.921599998474122,39.98955853655934
+[00:37:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -18.647362225197412,-4.626629247665406,37.60703844081445
+[00:39:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly moved wrongly!
+[00:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
